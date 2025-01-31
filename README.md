@@ -22,7 +22,10 @@ Vanilla JavaScript, Templating, HTML 5, and CSS 3
 
 
 
-https://github.com/user-attachments/assets/482e240f-f06b-4142-a480-9fbf5fa82ffc
+https://github.com/user-attachments/assets/4f0a8f74-fd7a-44a2-8e27-5a7f036e032b
+
+
+
 
 
 

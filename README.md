@@ -5,7 +5,7 @@
  ## Concept, Design, and Implementation
  Rami Al-Saadi. 2025. All Rights Reserved.
 
- #### Programming Languages / Techs
+ #### Techs & Programming Languages
  - Vanilla JavaScript
  - Templates
  - DOM manipulation

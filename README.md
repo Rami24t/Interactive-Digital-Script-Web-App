@@ -13,5 +13,16 @@ it easy for each to spot their own lines. This will add the actor's name to the 
 ### Techs & Programming Languages
 Vanilla JavaScript, Templating, HTML 5, and CSS 3
 
+### Work In Progress
+
+
+### Sneak Peak 31/1/2025 Demo
+
+
+
+https://github.com/user-attachments/assets/53d86418-476f-47c4-b67d-8393f1c31d88
+
+
+
 ## Concept, Design, and Implementation
 Rami Al-Saadi. 2025. All Rights Reserved.

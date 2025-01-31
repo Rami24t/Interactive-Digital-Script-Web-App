@@ -6,8 +6,8 @@
  Rami Al-Saadi. 2025. All Rights Reserved.
 
  #### Programming Languages / Techs
- - HTML 5
- - CSS 3
  - Vanilla JavaScript
  - Templates
  - DOM manipulation
+ - HTML 5
+ - CSS 3

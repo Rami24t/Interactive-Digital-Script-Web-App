@@ -20,9 +20,9 @@ it easy for each to spot their own lines. This will add the actor's name to the 
 - Web design and Web development
 - Efficient Coding
 - efficient usage of AI in innovative coding / AI prompting
-- various techs and programming languages
 - Project management
 - Data analysis
+- Using various techs and programming languages to create solutions
  
 ### Techs & Programming Languages
 Vanilla JavaScript, Templating, HTML 5, and CSS 3

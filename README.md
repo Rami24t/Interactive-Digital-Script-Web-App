@@ -13,6 +13,14 @@ it easy for each to spot their own lines. This will add the actor's name to the 
 - ...
 - ...
 
+### Skills trained and knowledge practiced
+
+- Software engineering
+- Problem solving
+- Web design and Web development
+- Efficient Coding
+- efficient usage of AI in innovative coding / AI prompting
+- various techs and programming languages
  
 ### Techs & Programming Languages
 Vanilla JavaScript, Templating, HTML 5, and CSS 3

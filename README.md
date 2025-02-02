@@ -22,6 +22,7 @@ it easy for each to spot their own lines. This will add the actor's name to the 
 - efficient usage of AI in innovative coding / AI prompting
 - Project management
 - Data analysis
+- Automating tests and using assertions
 - Using various techs and programming languages to create solutions
  
 ### Techs & Programming Languages
